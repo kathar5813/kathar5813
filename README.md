@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @kathar5813
 - 👀 I’m interested in 
-Meteorology/atmospheric science
-- 🌱 I’m currently learning
-Thermodynamics
-- 💞️ I’m looking to collaborate on cool stuff
+thermodynamic/atmospheric modeling
 - 📫 How to reach me ...
 katie@thinlink.com
 
